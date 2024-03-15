@@ -1,0 +1,120 @@
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\bin\Release\UHF.dll
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\bin\Release\UHF.pdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\bin\Release\UHF.UHF.apk
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\bin\Release\UHF.UHF-Signed.apk
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\bin\Release\DeviceAPI.dll
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\UHF.dll
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\UHF.pdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\android\bin\UHF.UHF.apk
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\res\layout\main.xml
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\res\values\strings.xml
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\res\drawable\icon.png
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\res\layout\scan_fragment.xml
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\res\layout\writedata_fragment.xml
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\res\layout\readdata_fragment.xml
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\res\layout\set_fragment.xml
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\res\layout\listtag_items.xml
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\res\drawable\beep.wav
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\R.cs.flag
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\uploadflags.txt
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\bin\Release\UHF.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\bin\Release\Java.Interop.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\bin\Release\Mono.Android.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\bin\Release\mscorlib.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\bin\Release\System.ComponentModel.Composition.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\bin\Release\System.Core.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\bin\Release\System.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\bin\Release\System.Net.Http.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\bin\Release\System.Runtime.Serialization.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\bin\Release\System.ServiceModel.Internals.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\bin\Release\System.Xml.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\android\assets\Java.Interop.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\android\assets\Mono.Android.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\android\assets\mscorlib.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\android\assets\System.Core.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\android\assets\System.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\android\assets\System.Runtime.Serialization.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\android\assets\UHF.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\android\assets\System.ComponentModel.Composition.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\android\assets\System.Net.Http.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\android\assets\System.ServiceModel.Internals.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\android\assets\System.Xml.dll.mdb
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\UHF.csprojResolveAssemblyReference.cache
+E:\龙伟富\公司\开发包\2013下半年新开发包\C4000开发包\Xamrain_UHF\UHF\UHF\UHF\obj\Release\UHF.dll.mdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\bin\Release\UHF.dll
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\bin\Release\UHF.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\bin\Release\UHF.UHF.apk
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\bin\Release\UHF.UHF-Signed.apk
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\bin\Release\DeviceAPI.dll
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\UHF.csproj.CoreCompileInputs.cache
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\UHF.csproj.CopyComplete
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\UHF.dll
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\UHF.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\android\bin\UHF.UHF.apk
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\res\layout\asset_check_fid.xml
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\res\layout\asset_fixed_asset_data_field.xml
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\res\layout\room_items_belong_to_room_id.xml
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\res\layout\room_check_room_id.xml
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\res\layout\asset_update_tid_other.xml
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\res\layout\asset_new_record.xml
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\res\layout\room_update_room_tid_other.xml
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\res\layout\room_new_record_room_tid_id.xml
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\res\layout\main.xml
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\res\values\strings.xml
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\res\drawable\icon.png
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\res\layout\scan_fragment.xml
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\res\layout\writedata_fragment.xml
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\res\layout\readdata_fragment.xml
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\res\layout\set_fragment.xml
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\res\layout\listtag_items.xml
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\res\drawable\beep.wav
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\R.cs.flag
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\uploadflags.txt
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\bin\Release\Mono.Android.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\bin\Release\mscorlib.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\bin\Release\System.Core.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\bin\Release\System.Data.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\bin\Release\System.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\bin\Release\System.Xml.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\bin\Release\System.Net.Http.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\bin\Release\System.Runtime.Serialization.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\bin\Release\System.ServiceModel.Internals.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\bin\Release\System.Numerics.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\bin\Release\System.Transactions.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\bin\Release\Mono.Data.Tds.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\bin\Release\Mono.Security.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\bin\Release\System.ComponentModel.Composition.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\linksrc\Mono.Android.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\linksrc\mscorlib.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\linksrc\System.Core.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\linksrc\System.Data.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\linksrc\System.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\linksrc\System.Xml.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\linksrc\System.Net.Http.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\linksrc\System.Runtime.Serialization.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\linksrc\System.ServiceModel.Internals.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\linksrc\System.Numerics.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\linksrc\System.Transactions.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\linksrc\Mono.Data.Tds.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\linksrc\Mono.Security.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\linksrc\System.ComponentModel.Composition.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\linksrc\UHF.dll.mdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\bin\Release\UHF.dll.mdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\android\assets\UHF.dll.mdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\android\assets\Mono.Android.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\android\assets\Mono.Data.Tds.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\android\assets\Mono.Security.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\android\assets\mscorlib.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\android\assets\System.ComponentModel.Composition.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\android\assets\System.Core.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\android\assets\System.Data.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\android\assets\System.Net.Http.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\android\assets\System.Numerics.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\android\assets\System.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\android\assets\System.Runtime.Serialization.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\android\assets\System.ServiceModel.Internals.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\android\assets\System.Transactions.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\android\assets\System.Xml.pdb
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\UHF.csprojResolveAssemblyReference.cache
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\bin\Release\UHF.dll
+E:\siit project\UHF Xamarin 2018-6-28\UHF_xm-2018\UHF\obj\Release\linksrc\UHF.dll.mdb

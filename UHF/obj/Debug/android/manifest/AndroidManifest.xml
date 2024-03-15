@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="UHF.UHF" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="17" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <application android:label="UHF" android:icon="@drawable/icon" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="Asset_check_fid" android:name="md528627aaeb6f9117298e91b1bbc0f3dd1.Asset_check_fid" />
+    <activity android:label="Asset_fixed_asset_data_field" android:name="md528627aaeb6f9117298e91b1bbc0f3dd1.Asset_fixed_asset_data_field" />
+    <activity android:label="Asset_new_record" android:name="md528627aaeb6f9117298e91b1bbc0f3dd1.Asset_new_record" />
+    <activity android:label="Asset_update_tid_other" android:name="md528627aaeb6f9117298e91b1bbc0f3dd1.Asset_update_tid_other" />
+    <activity android:label="UHF" android:name="md528627aaeb6f9117298e91b1bbc0f3dd1.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Room_check_room_id" android:name="md528627aaeb6f9117298e91b1bbc0f3dd1.Room_check_room_id" />
+    <activity android:label="Room_items_belong_to_room_id" android:name="md528627aaeb6f9117298e91b1bbc0f3dd1.Room_items_belong_to_room_id" />
+    <activity android:label="Room_new_record_room_tid_id" android:name="md528627aaeb6f9117298e91b1bbc0f3dd1.Room_new_record_room_tid_id" />
+    <activity android:label="Room_update_room_tid_other" android:name="md528627aaeb6f9117298e91b1bbc0f3dd1.Room_update_room_tid_other" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="UHF.UHF.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.UHF.UHF" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:rowCount="2"
+    android:columnCount="2">
+  <TextView
+      android:text="FID: "
+      android:textSize="14dip"
+      android:layout_row="0"
+      android:layout_column="0" />
+  <EditText
+      android:id="@+id/txt_FID"
+      android:hint="FID Data"
+      android:textSize="14dip"
+      android:layout_row="0"
+      android:layout_column="1" />
+  <Button
+      android:id="@+id/btnClose"
+      android:text="Close"
+      android:layout_row="1"
+      android:layout_column="0" />
+  <Button
+      android:id="@+id/btnCheck"
+      android:text="Check"
+      android:layout_row="1"
+      android:layout_column="1" />
+</GridLayout>
